@@ -1,0 +1,1316 @@
+fileFormatVersion: 2
+guid: 1e7b0f077cd434e4dbc066d0ef19980d
+timeCreated: 1521459676
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PixelArtTiles_0
+    21300002: PixelArtTiles_1
+    21300004: PixelArtTiles_2
+    21300006: PixelArtTiles_3
+    21300008: PixelArtTiles_4
+    21300010: PixelArtTiles_5
+    21300012: PixelArtTiles_6
+    21300014: PixelArtTiles_7
+    21300016: PixelArtTiles_8
+    21300018: PixelArtTiles_9
+    21300020: PixelArtTiles_10
+    21300022: PixelArtTiles_11
+    21300024: PixelArtTiles_12
+    21300026: PixelArtTiles_13
+    21300028: PixelArtTiles_14
+    21300030: PixelArtTiles_15
+    21300032: PixelArtTiles_16
+    21300034: PixelArtTiles_17
+    21300036: PixelArtTiles_18
+    21300038: PixelArtTiles_19
+    21300040: PixelArtTiles_20
+    21300042: PixelArtTiles_21
+    21300044: PixelArtTiles_22
+    21300046: PixelArtTiles_23
+    21300048: PixelArtTiles_24
+    21300050: PixelArtTiles_25
+    21300052: PixelArtTiles_26
+    21300054: PixelArtTiles_27
+    21300056: PixelArtTiles_28
+    21300058: PixelArtTiles_29
+    21300060: PixelArtTiles_30
+    21300062: PixelArtTiles_31
+    21300064: PixelArtTiles_32
+    21300066: PixelArtTiles_33
+    21300068: PixelArtTiles_34
+    21300070: PixelArtTiles_35
+    21300072: PixelArtTiles_36
+    21300074: PixelArtTiles_37
+    21300076: PixelArtTiles_38
+    21300078: PixelArtTiles_39
+    21300080: PixelArtTiles_40
+    21300082: PixelArtTiles_41
+    21300084: PixelArtTiles_42
+    21300086: PixelArtTiles_43
+    21300088: PixelArtTiles_44
+    21300090: PixelArtTiles_45
+    21300092: PixelArtTiles_46
+    21300094: PixelArtTiles_47
+    21300096: PixelArtTiles_48
+    21300098: PixelArtTiles_49
+    21300100: PixelArtTiles_50
+    21300102: PixelArtTiles_51
+    21300104: PixelArtTiles_52
+    21300106: PixelArtTiles_53
+    21300108: PixelArtTiles_54
+    21300110: PixelArtTiles_55
+    21300112: PixelArtTiles_56
+    21300114: PixelArtTiles_57
+    21300116: PixelArtTiles_58
+    21300118: PixelArtTiles_59
+    21300120: PixelArtTiles_60
+    21300122: PixelArtTiles_61
+    21300124: PixelArtTiles_62
+    21300126: PixelArtTiles_63
+    21300128: PixelArtTiles_64
+    21300130: PixelArtTiles_65
+    21300132: PixelArtTiles_66
+    21300134: PixelArtTiles_67
+    21300136: PixelArtTiles_68
+    21300138: PixelArtTiles_69
+    21300140: PixelArtTiles_70
+    21300142: PixelArtTiles_71
+    21300144: PixelArtTiles_72
+    21300146: PixelArtTiles_73
+    21300148: PixelArtTiles_74
+    21300150: PixelArtTiles_75
+    21300152: PixelArtTiles_76
+    21300154: PixelArtTiles_77
+    21300156: PixelArtTiles_78
+    21300158: PixelArtTiles_79
+    21300160: PixelArtTiles_80
+    21300162: PixelArtTiles_81
+    21300164: PixelArtTiles_82
+    21300166: PixelArtTiles_83
+    21300168: PixelArtTiles_84
+    21300170: PixelArtTiles_85
+    21300172: PixelArtTiles_86
+    21300174: PixelArtTiles_87
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelArtTiles_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 490
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 436
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 463
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 463
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 473
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 473
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 473
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 462
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 462
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 462
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 462
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 454
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 435
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 447
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 433
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_17
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 431
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 461
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 461
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 461
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 461
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 461
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 449
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 449
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 439
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 439
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 447
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 448
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 444
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 441
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 437
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 437
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_33
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 439
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 439
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_35
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 439
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 425
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 425
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 425
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 425
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_40
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 425
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 425
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 426
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 410
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 399
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_45
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 391
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_46
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 391
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_47
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 389
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_48
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 388
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 388
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 388
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 378
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 376
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 376
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_54
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 361
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 349
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 349
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 378
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 388
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_59
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 376
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 388
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 376
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_62
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 388
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_63
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 376
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_64
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 377
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 377
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_66
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 377
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 377
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 338
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 360
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_70
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 356
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 353
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 322
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_73
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 311
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_74
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 347
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_75
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 347
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_76
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 347
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_77
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 347
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_78
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 350
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_79
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 350
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_80
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 230
+        width: 138
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 499
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_82
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 366
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_83
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 366
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_84
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 366
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_85
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 366
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_86
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 360
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PixelArtTiles_87
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 350
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
