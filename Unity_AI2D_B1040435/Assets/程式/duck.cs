@@ -33,6 +33,14 @@ public class duck : MonoBehaviour {
 	void Update () {
         if (Input.GetKeyDown(KeyCode.D)) Turn(0);
         if (Input.GetKeyDown(KeyCode.A)) Turn(180);
+
+
+
+
+        if (Score_Time.Time_Num <= 0)
+        {
+            StartCoroutine("Show_UI");
+        }
     }
 
     /// <summary>
@@ -84,5 +92,18 @@ public class duck : MonoBehaviour {
         hp -= damge;
         hpBar.fillAmount = hp / hpMax;
         if (hp <= 0) final.SetActive(true);
+
+
+       
+    }
+    /// <summary>
+    /// 時間到
+    /// </summary>
+    /// <returns></returns>
+    IEnumerator  Show_UI()
+    {
+        final.SetActive(true);
+        yield return new WaitForSeconds(0.2f);
+
     }
 }

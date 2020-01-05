@@ -96,6 +96,7 @@ public class npc : MonoBehaviour {
     public void PlayerGet()
     {
         Count_player++;
+        Score_Time.Score_Num++;
     }
 
 }
