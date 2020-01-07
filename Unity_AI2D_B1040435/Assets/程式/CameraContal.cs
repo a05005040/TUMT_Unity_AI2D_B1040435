@@ -18,7 +18,7 @@ namespace KID
             Vector3 cam = transform.position;
             Vector3 tar = target.position;
             tar.y = Mathf.Clamp(tar.y, -1, 0.3f);
-            tar.x = Mathf.Clamp(tar.x, -10, 20);
+            tar.x = Mathf.Clamp(tar.x, -10, 40);
             tar.z = -10;
             transform.position = Vector3.Lerp(cam, tar, 0.3f * Time.deltaTime * speed);
         }

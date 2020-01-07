@@ -11,7 +11,7 @@ public class duck : MonoBehaviour {
     public bool pass = false;
     private Rigidbody2D r2d;
     private Transform tra;
-    public bool isGround;
+    public bool isGround,isDie;
 
     public UnityEvent onEat;
 
@@ -21,7 +21,7 @@ public class duck : MonoBehaviour {
 
     public Image hpBar;
     private float hpMax;
-    public GameObject final;
+    public GameObject final,HP;
     // Use this for initialization
     void Start () {
         r2d = GetComponent<Rigidbody2D>();
@@ -37,10 +37,8 @@ public class duck : MonoBehaviour {
 
 
 
-        if (Score_Time.Time_Num <= 0)
-        {
-            StartCoroutine("Show_UI");
-        }
+        if (Score_Time.Time_Num <= 0) StartCoroutine("Show_UI");
+        
     }
 
     /// <summary>
@@ -55,10 +53,24 @@ public class duck : MonoBehaviour {
         Jump();
         Walk();
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        isGround = true;
-        Debug.Log("碰到" + collision.gameObject);
+        if (other.gameObject.name == "地板")
+        {
+            isGround = true;
+        }
+        if (other.gameObject.name == "死亡區域")
+        {
+            isDie = true;
+            if (isDie == true)
+            {
+                final.SetActive(true);
+                HP.SetActive(false);
+            }
+        }
+        //isGround = true;
+        //Debug.Log("碰到" + collision.gameObject);
+
 
     }
     private void OnTriggerEnter2D(Collider2D collision)
@@ -91,7 +103,10 @@ public class duck : MonoBehaviour {
     {
         hp -= damge;
         hpBar.fillAmount = hp / hpMax;
-        if (hp <= 0) final.SetActive(true);
+        if (hp <= 0)
+        {
+            final.SetActive(true);
+        }
 
 
        
@@ -103,6 +118,7 @@ public class duck : MonoBehaviour {
     IEnumerator  Show_UI()
     {
         final.SetActive(true);
+        HP.SetActive(false);
         yield return new WaitForSeconds(0.2f);
 
     }
