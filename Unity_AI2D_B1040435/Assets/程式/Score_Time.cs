@@ -14,7 +14,7 @@ public class Score_Time : MonoBehaviour {
     void Start ()
     {
 
-        Time_Num = 5;
+        Time_Num = 15;
         Score_Num = 0;
     }
 
