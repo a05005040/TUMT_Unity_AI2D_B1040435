@@ -1,6 +1,6 @@
 WebGL
 PlayerPath?
-D:/Unity/TUMT_Unity_AI2D_B1040435/Web
+C:/Users/User/Desktop/TUMT_Unity_AI2D_B1040435/Web
 SceneListBegin?
 Assets/場景/遊戲.unity
 SceneListEnd?
@@ -165,7 +165,7 @@ aac9c55ae7ba4b95b852a7d9c191acd1 Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 0a006f3734181ba8b26758f0866152c0 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 f9dff50023fd287ab03026202215455b Assembly-CSharp.dll:.Enmey
 e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
-01356c0bf34f60982b47ee2fa94924dd Assembly-CSharp.dll:.duck
+fe93737f4192f29f1d8db04b9b5a14c5 Assembly-CSharp.dll:.duck
 2f9af06a78208a67db480e9bfed4a076 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 9318334b30e9f195f573b2ce00154b95 Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 93307bd34e39d73fd24e00ec39c25a91 Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
